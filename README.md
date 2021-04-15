@@ -158,5 +158,5 @@ context.startActivity(i);
 ```
 
 * Test your code one final time.
-* Share, commit, and push lab to your GitHub account 
+* Share, commit, and push lab to your GitHub account
 
