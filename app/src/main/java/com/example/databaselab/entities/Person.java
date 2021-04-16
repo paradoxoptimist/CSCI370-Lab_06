@@ -1,4 +1,7 @@
-package com.example.databaselab;
+package com.example.databaselab.entities;
+
+import androidx.room.Entity;
+import androidx.room.PrimaryKey;
 
 @Entity
 public class Person {
@@ -15,7 +18,7 @@ public class Person {
         this.id = id;
     }
 
-    public String getName[]{
+    public String getName() {
         return name;
     }
 
